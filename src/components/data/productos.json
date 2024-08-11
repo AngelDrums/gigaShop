@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Cámara DS-2CE16K0T-LFS ",
+    "category": "bala",
+    "description": "Cámara mini bala fija con audio, luz e híbrida inteligente 3K",
+    "pictureUrl": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000146/S000000147/OFR009689/M000059513/images/%E7%AD%92%E6%9C%BA62-D0T-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "title": "DS-2CE76K0T-LMFS ",
+    "category": "domo",
+    "description": "Cámara fija tipo torreta con audio, luz e híbrido inteligente 3K",
+    "pictureUrl": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000146/S000000147/OFR009689/M000059516/images/%E6%B5%B7%E8%9E%BA30-D0T-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png",
+    "price": 20
+  },
+  {
+    "id": 3,
+    "title": "DS-2CE17D0T-LFS ",
+    "category": "bala",
+    "description": "Cámara tipo bala fija con audio, luz e híbrida inteligente de 2 MP",
+    "pictureUrl": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000146/S000000147/OFR009688/M000059509/images/%E7%AD%92%E6%9C%BA78-K0T-%E5%B7%A6%E4%BE%A7-.png.thumb.1280.1280.png",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "title": "DS-2CE76D0T-LMFS ",
+    "category": "domo",
+    "description": "Cámara fija tipo torreta para interiores con audio, luz e híbrido inteligente de 2 MP",
+    "pictureUrl": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000146/S000000147/OFR009688/M000059510/images/%E6%B5%B7%E8%9E%BA30-D0T-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "title": "DS-2CD2047G2-LU/SL",
+    "category": "bala",
+    "description": "Cámara de red mini tipo bala fija con luz estroboscópica y advertencia audible ColorVu de 4 MP",
+    "pictureUrl": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000003/S000000025/OFR007893/M000048866/SM000058370/images/%E7%AD%92%E6%9C%BA91-%E5%8A%A0SD%E5%8D%A1%E7%9B%96-%E6%B5%B7%E5%A4%96-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+    "price": 20
+  },
+  {
+    "id": 6,
+    "title": "DS-2CD2127G2(-SU)",
+    "category": "domo",
+    "description": "Cámara de red domo fija ColorVu de 2 MP",
+    "pictureUrl": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000003/S000000025/OFR007893/M000041091/SM000058343/images/%E5%8D%8A%E7%90%8356-%E5%9F%BA%E7%BA%BF-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png",
+    "price": 20
+  }
+]
